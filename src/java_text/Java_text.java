@@ -17,6 +17,7 @@ public class Java_text {
     public static void main(String[] args) {
        
         //hola desde la mac
+        //hola desde windows
         
     }
     
